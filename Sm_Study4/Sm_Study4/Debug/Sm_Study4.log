@@ -1,0 +1,4 @@
+﻿  Challenge5.cpp
+c:\users\administrator.msdn-special\documents\visual studio 2015\projects\sm_study4\sm_study4\challenge5.cpp(6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Sm_Study4.vcxproj -> C:\Users\Administrator.MSDN-SPECIAL\documents\visual studio 2015\Projects\Sm_Study4\Debug\Sm_Study4.exe
+  Sm_Study4.vcxproj -> C:\Users\Administrator.MSDN-SPECIAL\documents\visual studio 2015\Projects\Sm_Study4\Debug\Sm_Study4.pdb (Full PDB)
